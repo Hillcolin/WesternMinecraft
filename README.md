@@ -12,13 +12,13 @@ You can download any file from this repository in a few different ways:
 2. Click on the file name to open it.
 3. Click the **"Download"** button (or **"Raw"** > Right-click > **"Save As..."**) to save the file to your computer.
 
-> ⚠️ Make sure to keep the file extension (e.g., `.txt`, `.csv`, `.py`) when saving.
+> ⚠️ Make sure to keep the file extension (e.g., `mcpack`) when saving.
 
 ---
 
-### ✅ Method 2: Clone the Repository
+### ✅ Method 3: Download as ZIP
 
-If you'd like to download **all files** in the repository:
+1. Click the green **Code** button at the top of the repository.
+2. Select **Download ZIP**.
+3. Extract the ZIP file on your computer to access the files.
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
