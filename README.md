@@ -23,7 +23,7 @@ You can download any file from this repository in a few different ways:
 3. Extract the ZIP file on your computer to access the files.
 
 
-***How to add to Minecraft
+### How to add to Minecraft
 1. Click on the download in your browser
 2. Open with Minecraft Education
 3. Once the import is done loading, enter into the world
