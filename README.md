@@ -1,6 +1,6 @@
 # 📁 File Download Guide
 
-This repository contains useful files that you can download directly. Follow the instructions below to download any file from this repository.
+This repository contains the behaviour and resource packs that you can download directly. These are needed for particualar custom blocks to appear in Minecraft. Follow the instructions below to download any file from this repository.
 
 ## 🔽 How to Download a File
 
